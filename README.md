@@ -227,6 +227,13 @@ I am a full stack developer. I am open to work. If you are looking for a develop
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/Blushyes">
+                    <img src="https://avatars.githubusercontent.com/u/75828899?v=4" width="100;" alt="Blushyes"/>
+                    <br />
+                    <sub><b>Blushyes</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mubaidr">
                     <img src="https://avatars.githubusercontent.com/u/2222702?v=4" width="100;" alt="mubaidr"/>
                     <br />
@@ -261,6 +268,8 @@ I am a full stack developer. I am open to work. If you are looking for a develop
                     <sub><b>igorfz</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/hi2code">
                     <img src="https://avatars.githubusercontent.com/u/51270649?v=4" width="100;" alt="hi2code"/>
@@ -268,8 +277,6 @@ I am a full stack developer. I am open to work. If you are looking for a develop
                     <sub><b>hi2code</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/justorez">
                     <img src="https://avatars.githubusercontent.com/u/17308328?v=4" width="100;" alt="justorez"/>
